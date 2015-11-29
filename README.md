@@ -4,7 +4,7 @@
 
 3D Printer temperature controller for extruder and heated bed.
 
-Designed to handle larger heated beds up to 15A at 12V. Includes support for 3- or 4-wire fan control.
+Designed to handle larger heated beds up to 15A at 12V. Includes support for 3- or 4-wire fan control to keep the MOSFETs cooled.
 
 Requires the following Arduino libraries:
 
